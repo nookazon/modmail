@@ -108,5 +108,4 @@ venv.bak/
 
 # Custom
 .DS_Store
-config.py
 targets.json
